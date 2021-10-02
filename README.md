@@ -38,4 +38,4 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 
 
 # 原创
-![img/YC/oo.jpg]()
+![](img/YC/oo.jpg)
